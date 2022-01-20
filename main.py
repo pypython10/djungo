@@ -1,4 +1,12 @@
 '''
+python manage.py startapp main
+
+
+
+pip install django
+django-admin startproject taskmanager
+python manage.py runserver
+
 Как загрузить файлы в гит
 1.скачать гит на пк
 2.  git init
